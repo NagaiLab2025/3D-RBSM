@@ -1,0 +1,16 @@
+
+MODEL TYPE
+21
+BOOUNDRY TYPE 1:displacement control 2:load control
+1
+Material properties
+Mortar
+Modulus of Elasticity
+20689.000000
+Poisson Ratio
+0.180000
+Tensile Strength
+2.000000
+50000.000000
+0.250000
+1.550000
