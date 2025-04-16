@@ -285,6 +285,8 @@ The format of the input:
 | Tensile Strength |     |
 | 2.000000 | \*Tensile strength of mortar elements |
 
+**During the simulation, the files "INDATA1.INFO" and "INDATA2.INFO" should be placed in the same folder as the Fortran source file "3D-RBSM-MSM046.f90".**
+
 # **2\. Subroutine INDATA**
 
 ## **2.1. Subroutine PHASECENTER**
@@ -406,6 +408,7 @@ For each simulation step, under global coordinate is calculated according to Eq.
 ## **7.4. SMSOLVE1**
 
 After obtain , of each element are calculated by applying the principle of virtual work, as expressed in Eq. 18 for each simulation step,
+
 ![eq](assets/eq%2018.jpg)
 
 ## **7.5. Subroutine ACTURALFORCE1**
