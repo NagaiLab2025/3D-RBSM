@@ -53,7 +53,7 @@ Intel oneAPI Command Prompt for Visual Studio 2019
   2. Select your .f90 file.
 
 ## **3.4. Find the path of “mkl_pardiso.f90”** 
-**For example: C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\include**
+**For example: “C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\include”**
 
 - 1. Add “mkl_pardiso.f90” to source file (same procedure as adding source file “3D-RBSM-MSM046.f90”)
   2. Program (right-click) > property > general > use complier > IFORT Intel® Fortran Compiler Classic
