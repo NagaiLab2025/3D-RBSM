@@ -427,7 +427,7 @@ The stiffness and are written as shown in Eq. 10 and Eq. 11. The shear stress an
 
 ![eq](assets/eq%2019%2021.jpg)
 
-Where _STRE<sub>1</sub>, STRE <sub>2</sub>_ and _ STRE <sub>3</sub>_ is the stress of the first shear spring, second shear spring, and the normal spring. , and  _STRA<sub>1</sub>, STRA <sub>2</sub>_ and _ STRA <sub>3</sub>_ is the strain of the first shear spring, second shear spring, and the normal spring, respectively.
+Where _STRE<sub>1</sub>, STRE <sub>2</sub>_and_STRE<sub>3</sub>_is the stress of the first shear spring, second shear spring, and the normal spring. , and  _STRA<sub>1</sub>, STRA<sub>2</sub>_and_STRA<sub>3</sub>_is the strain of the first shear spring, second shear spring, and the normal spring, respectively.
 
 ### **7.5.3. Subroutine FORCE**
 
