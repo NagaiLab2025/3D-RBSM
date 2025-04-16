@@ -60,7 +60,7 @@ Intel oneAPI Command Prompt for Visual Studio 2019
   3. Program (right-click) > property > Fortran > Additional Include Directories > add the path of “mkl_pardiso.f90” (C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\include)
 
 ## **3.5. Find the path of “mkl_rt.lib” and “libiomp5md.lib”**  
-**For example: “C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\lib” and “C:\\Program Files (x86)\\Intel\\oneAPI\\compiler\\2024.1\\lib” **
+**For example: “C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\lib” and “C:\\Program Files (x86)\\Intel\\oneAPI\\compiler\\2024.1\\lib”**
 
 - 1. Program (right-click) > property > Fortran > Linker > General > Additional Include Directories > add the path of “mkl_rt.lib” and “libiomp5md.lib” (C:\\Program Files (x86)\\Intel\\oneAPI\\mkl\\2024.1\\lib C:\\Program Files (x86)\\Intel\\oneAPI\\compiler\\2024.1\\lib)
   2. Program (right-click) > property > Fortran > Linker > Input > Additional Dependencies > add “mkl_rt.lib libiomp5md.lib”
