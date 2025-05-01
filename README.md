@@ -7,7 +7,7 @@
 ## **1.1. Visual Studio**
 
 1. Download from: <https://visualstudio.microsoft.com/>
-2. Recommended version: **Visual Studio 2019 (Community Edition is sufficient)**
+2. Recommended version: **Visual Studio 2019 (Community Edition is sufficient)** (The Visual Studio 2019 version has been uploaded.)
 3. During installation, make sure to select:
 
 **Desktop development with C++**
@@ -16,11 +16,11 @@ Optionally: **.NET desktop development** (for GUI tools)
 
 ## **1.2. Intel oneAPI Base Toolkit**
 
-1. Download from: <https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html>
+1. Download from: <https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html> (We recommend using the uploaded version, as the latest version may cause some problems.)
 
 ## **1.3. Intel oneAPI HPC Toolkit**
 
-1. Download from: <https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html>
+1. Download from: <https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit-download.html> (We recommend using the uploaded version, as the latest version may cause some problems.)
 2. Includes Intel Fortran Compiler (ifx and ifort) and MPI libraries.
 
 Note: After installing Visual Studio, install the Base Toolkit **first**, then the HPC Toolkit.
